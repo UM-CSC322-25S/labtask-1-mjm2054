@@ -1,0 +1,5 @@
+The parent process of a program you run in the command line prompt is the shell.
+In my case : zsh
+
+The parent of the shell is the terminal that is being used to run the shell
+The parent of the terminal is the operating system, in my case Mac OS X.
